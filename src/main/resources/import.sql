@@ -1,0 +1,10 @@
+INSERT INTO MOBILE_PHONE(name, version) VALUES ('Samsung Galaxy S9', 0);
+INSERT INTO MOBILE_PHONE(name, version) VALUES ('Samsung Galaxy S8', 0);
+INSERT INTO MOBILE_PHONE(name, version) VALUES ('Samsung Galaxy S8', 0);
+INSERT INTO MOBILE_PHONE(name, version) VALUES ('Motorola Nexus 6', 0);
+INSERT INTO MOBILE_PHONE(name, version) VALUES ('Oneplus 9', 0);
+INSERT INTO MOBILE_PHONE(name, version) VALUES ('Apple iPhone 13', 0);
+INSERT INTO MOBILE_PHONE(name, version) VALUES ('Apple iPhone 12', 0);
+INSERT INTO MOBILE_PHONE(name, version) VALUES ('Apple iPhone 11', 0);
+INSERT INTO MOBILE_PHONE(name, version) VALUES ('iPhone X', 0);
+INSERT INTO MOBILE_PHONE(name, version) VALUES ('Nokia 3310', 0);

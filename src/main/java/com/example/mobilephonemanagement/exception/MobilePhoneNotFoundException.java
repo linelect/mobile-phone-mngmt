@@ -1,7 +1,7 @@
 package com.example.mobilephonemanagement.exception;
 
-public class ResourceNotFoundException extends RuntimeException {
-    public ResourceNotFoundException(String message) {
+public class MobilePhoneNotFoundException extends RuntimeException {
+    public MobilePhoneNotFoundException(String message) {
         super(message);
     }
 }
